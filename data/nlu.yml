@@ -1,0 +1,173 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+    - kya haal hai
+    - kya haal chal
+    - kya hal hai
+    - kya hal chal
+    - hal chal theek hai
+    - hal kya hai
+    - kya hall
+    - Ram Ram
+    - ram ram
+    - Jai Shri Ram
+    - Jai Shri Krishna
+    - Jai Sri Krishna
+
+
+- intent: goodbye
+  examples: |
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+    - fir milte hain
+    - rakhte hain
+    - rakhen
+    - ok bye
+    - ok ji
+    - okay ji
+    - okay jee
+    - okay bye
+  
+
+- intent: jai
+  examples: | 
+    - Jai Maharastra
+    - Jai Hind
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+    - theek hai
+    - nice
+    - noice
+    - badhiya
+    - mast
+    - chakachak
+    - han
+    - haan
+    - haa
+    - okie dokie
+    - okay
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+    - nhi
+    - nahi
+    - dekhte hain
+    - pasand nhi aaya
+    - pasand nhi aya
+    - theek nhi 
+    - nhi
+    - achcha nhi
+    - nope
+    - no way
+    - bhaak
+    - chal bhak
+    - bhak
+    - bak
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+    - theek hai
+    - achcha hai
+    - achche hain
+    - badhiya
+
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+    - theek nhi hai
+    - chal raha hai
+    - bit raha hai
+    - maza nhi aa raha
+    - kat rahi
+    - kat rahi jaise taise
+    - kat rahi hai jaise taise
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+    - tum kaun ho
+    - tum kaun
+    - who are you
+    - aap kaun
+    - ap kaun
+    - kaun hain aap
+    - kaun ho
+    - kaun ho tum
+    - kaun ho aap
+
+- intent: bot_ultra_challenge
+  examples: |
+    - xbdkjasb
+    - twr qywg  qn
+    - KNSHJgduo
+    - djfjf
+    - qwyecbsamkncj
+
