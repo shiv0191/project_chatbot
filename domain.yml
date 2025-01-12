@@ -10,6 +10,7 @@ intents:
   - bot_challenge
   - bot_ultra_challenge
   - jai
+  - kundan
 
 responses:
   utter_greet:
