@@ -1,0 +1,23 @@
+Your input ->  kya haal?                                                                                                                    
+Jai Shri Krishna!! kya haal hain aapke?
+Your input ->  hi                                                                                                                           
+Jai Shri Krishna!! kya haal hain aapke?
+Your input ->  theek hai                                                                                                                    
+Sun ke achcha laga. Aise hi chalta rahe
+Your input ->  achcha nhi                                                                                                                   
+Theek hai ji jaldi milte hain. Dhyan rakhiyega apna.
+Your input ->  tum ho kaun?                                                                                                                 
+Mai ek bot hu aur abhi sikh raha hu.
+Your input ->  nhi                                                                                                                          
+Theek hai ji jaldi milte hain. Dhyan rakhiyega apna.
+Your input ->  cnfdh                                                                                                                        
+Sun ke achcha laga. Aise hi chalta rahe
+Your input ->  eiwfhwekbf                                                                                                                   
+Sun ke achcha laga. Aise hi chalta rahe
+Your input ->  exit                                                                                                                         
+Sun ke achcha laga. Aise hi chalta rahe
+Your input ->  kaun ho aap?                                                                                                                 
+Mai ek bot hu aur abhi sikh raha hu.
+Your input ->  okay bye                                                                                                                     
+Theek hai ji jaldi milte hain. Dhyan rakhiyega apna.
+Your input ->

@@ -1,0 +1,7 @@
+pip install rasa
+rasa init --no-prompt
+edit data/nlu.yml or data/nlu.md
+edit domain.yml
+edit data/stories.yml or data/stories.md
+rasa train
+rasa shell
